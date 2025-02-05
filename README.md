@@ -1,11 +1,4 @@
----
-title: "TinDog Project"
-author: "Ying Liu"
-date: "`r Sys.Date()`"
-output: github_document
----
-
-## Overview
+# TinDog
 
 TinDog is a responsive webpage built using **Bootstrap** that helps users **meet new and interesting dogs nearby**. Inspired by dating apps, TinDog provides a fun and interactive way for dog lovers to connect with potential furry friends.
 
